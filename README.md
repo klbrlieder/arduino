@@ -3,6 +3,6 @@
 This repository tracks my progress on Arduino exercises and projects.
 
 
---> Exercises are for simple codes
+> Exercises are for simple codes
 
---> Projects for larger codes 
+> Projects for larger codes 
